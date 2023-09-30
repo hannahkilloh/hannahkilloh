@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hannahkilloh
 - 👀 I’m interested in design, physics, speedcubing and gaming. 
-- 🌱 I’m currently learning SQL, Python, JavaScript and Java.
-- 💞️ I’m looking to collaborate on projects using Pygame to get familiar with the library. 
+- 🌱 I’m proficient in SQL, Python and JavaScript. In addition, I'm currently learning Java.
 
 <!---
 hannahkilloh/hannahkilloh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
